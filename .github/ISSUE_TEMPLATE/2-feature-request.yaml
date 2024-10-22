@@ -1,8 +1,8 @@
-name: 'Feature Request'
-description: A new feature or task
+name: 'Feature/Enhancement Request'
+description: A request, idea, feature or new functionality
 labels: ["enhancement"]
 projects: ["enabletechnologies/1"]
-
+type: 'Enhancement'
 body:
   - type: textarea
     id: description
