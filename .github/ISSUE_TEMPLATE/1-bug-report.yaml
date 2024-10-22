@@ -1,7 +1,8 @@
 name: Bug Report
-description: Report a bug
+description: Report a bug , unexpected problem or behavior
 title: "[Bug]: "
 labels: ["bug"]
+type: 'Bug'
 projects: ["enabletechnologies/1"]
 
 body:
@@ -30,6 +31,9 @@ body:
       label: Version
       description: What version of our software are you running?
       options:
-        - 1.0.0 (Default)
+        - 4.0.0
+        - 5.0.0 (Default)
+        - 6.0.0 
+        - 7.0.0
     validations:
       required: true
