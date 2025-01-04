@@ -16,4 +16,4 @@ body:
       label: Success and Failure Criteria
       description: Provide a list of success and failure criteria which can be used create test cases
     validations:
-      required: false
+      required: true
