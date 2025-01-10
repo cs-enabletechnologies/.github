@@ -24,14 +24,20 @@ body:
       label: Relevant log output
       description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
       render: Shell
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment details 
+      description: Please provide the environment details.
+      placeholder: Where do you see this bug!
+      value: "qa"
   - type: dropdown
     id: version
     attributes:
       label: Version
       description: What version of our software are you running?
       options:
-        - 4.0.0
-        - 5.0.0 (Default)
+        - 5.3.0 (Default)
         - 6.0.0 
         - 7.0.0
     validations:
