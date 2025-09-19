@@ -1,9 +1,10 @@
 name: 'Epic'
 description: A large body of work that can be broken down into a number of smaller enhancements and tasks. This will be roadmap items
-labels: ["needs-design"]
 title: "[Epic]: "
-projects: ["enabletechnologies/1"]
+projects: ["enabletechnologies/17"]
 type: 'Epic'
+assignees:
+  - p2-enable
 body:
   - type: dropdown
     id: source
