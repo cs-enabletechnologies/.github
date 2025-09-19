@@ -2,8 +2,9 @@ name: Bug Report
 description: Report a bug , unexpected problem or behavior
 title: "[Bug]: "
 type: 'Bug'
-projects: ["enabletechnologies/1"]
-
+projects: ["enabletechnologies/17"]
+assignees:
+  - p2-enable
 body:
   - type: markdown
     attributes:
