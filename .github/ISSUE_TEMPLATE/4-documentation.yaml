@@ -1,7 +1,9 @@
 name: 'Documentation task'
 description: Documentation task to update/create markdown , design or code
-projects: ["enabletechnologies/1"]
+projects: ["enabletechnologies/17"]
 type: 'Documentation'
+assignees:
+  - p2-enable
 body:
   - type: textarea
     id: description
