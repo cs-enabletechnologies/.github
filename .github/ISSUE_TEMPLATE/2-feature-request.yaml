@@ -1,6 +1,8 @@
 name: 'Feature/Enhancement Request'
 description: A request, idea, feature or new functionality
-projects: ["enabletechnologies/1"]
+projects: ["enabletechnologies/17"]
+assignees:
+  - p2-enable
 type: 'Enhancement'
 body:
   - type: textarea
